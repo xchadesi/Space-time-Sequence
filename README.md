@@ -6,6 +6,6 @@
 以上均为个人笔记整理，如有不当之处，还请及时帮助更正！<br>
 
 同时也欢迎关注公众号：数联未来（ID: zycnb1）
-<div align=center><img src="https://github.com/xchadesi/Space-time-Sequence/blob/master/zycnb1.png"/></div>
+<div align=center><img src="https://github.com/xchadesi/Space-time-Sequence/blob/master/zycnb1.jpg"/></div>
 
 
